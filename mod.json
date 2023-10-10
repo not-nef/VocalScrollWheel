@@ -4,5 +4,10 @@
 	"id": "hjfod.vocalscrollwheel",
 	"name": "Vocal Scroll Wheel",
 	"developer": "hjfod",
-	"description": "HJfods VocalScrollWheel mod ported to geode by nef"
+	"description": "HJfods VocalScrollWheel mod ported to geode by nef",
+	"repository": "https://github.com/not-nef/VocalScrollWheel",
+	"issues": {
+		"info": "Please report issues on the GitHub Repo",
+		"url": "https://github.com/not-nef/VocalScrollWheel/issues/new"
+	}
 }
