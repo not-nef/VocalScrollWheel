@@ -208,10 +208,6 @@ class VolumeControlOverlay : public CCNode {
             } else {
                 fe->m_backgroundMusicVolume = vol;
                 fe->m_globalChannel->setVolume(vol);
-
-                if (!GameManager::sharedState()->getEditorLayer() && !GameManager::sharedState()->getPlayLayer())
-                    if (ovol == 0.0f && vol > 0.0f)
-                        fe->playBackgroundMusic("menuLoop.mp3", true, false);
             }
 
             m_pPercentMusic->setString(
