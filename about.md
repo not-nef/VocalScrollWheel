@@ -1,5 +1,5 @@
 # VolumeScrollWheel
 
-HJfods VolumeScrollWheel mod ported to geode by nef
+Hold alt and scroll to change the music and sfx volume!
 
-Hold alt and scroll to change the music and sfx volume
+This mod was developed by HJfod and ported by nef.
